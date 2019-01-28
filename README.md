@@ -6,7 +6,7 @@ setup in you python env:
 
     git clone https://github.com/futorio/Spider.git && cd Spider && python3.6 setup.py install
  
- # USAGE
+ # Usage
 
     python3.6 -m spider --help
     usage: spider [-h] [-n N] [--depth DEPTH] [--html-path HTML_PATH]
